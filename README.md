@@ -1,2 +1,2 @@
-# estebanale-edu.Numpy-
+# edu.Numpy-
 Numpy basics (Conceptos básicos de Numpy)
