@@ -5,4 +5,4 @@ en la resolución de problemas. Espero sus comentarios y que les resulte útil!.
 
 (ENGLISH) 
 Hi!, this material is about Numpy basics. Although the comments are mainly in spanish language, the code is easily understood. Please, feel free to make comments
-or ask about something.
+or ask about something. I hope you found it useful!
